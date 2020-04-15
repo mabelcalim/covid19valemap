@@ -11,8 +11,7 @@ Welcome to COVID19-ValeMap's documentation!
    :caption: Contents:
 
    intro
-   Aparecida
-
+   cidades
 Indices and tables
 ==================
 

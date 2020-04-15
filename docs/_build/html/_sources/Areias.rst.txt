@@ -1,0 +1,8 @@
+Areias 
+===============================================
+
+Resultados:
+
+ 
+.. image:: ../figs/CIDADES/Areias.png
+   :width: 650pt
