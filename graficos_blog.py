@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 
 
 file = glob.glob('/Users/Mabel/Downloads/covid-19.xlsx')
-print(file)
+#print(file)
 f = file[0]
 
 #df = pd.read_excel(f, sheet_name='04abr2020')
@@ -23,6 +23,7 @@ xls = pd.ExcelFile(f)
 #read all the sheet together
 sheet_to_df_map = {}
 for sheet_name in xls.sheet_names:
+    print (sheet_name)
     sheet_to_df_map[sheet_name] = xls.parse(sheet_name)
 
 df ={}
@@ -44,7 +45,7 @@ for a,b in enumerate(df['04abr2020']['CIDADE']):
     #print (a,b)
     y1, y2,y3,x =[],[],[],[]
     for e,i in enumerate(xls.sheet_names):
-        #print(e,i)
+        print(e,i)
         y1.append(df[i]['CASOS_POTENCIAIS'][a])
         y2.append(df[i]['CASOS_CONFIRMADOS'][a])
         y3.append(df[i]['MORTES_CONFIRMADAS'][a])
@@ -54,19 +55,19 @@ for a,b in enumerate(df['04abr2020']['CIDADE']):
     x = df.keys()
     #y = np.vstack([y1, y2, y3])
 
-    #labels = ["CASOS_POTENCIAIS ", "CASOS_CONFIRMADOS", "MORTES_CONFIRMADAS"]
+    labels = ["CASOS_POTENCIAIS ", "CASOS_CONFIRMADOS", "MORTES_CONFIRMADAS"]
 
-    #fig1=plt.figure(figsize=(10,5.5), dpi=100)
+    fig1=plt.figure(figsize=(10,5.5), dpi=100)
     ##fig, ax = plt.subplots()
-    #plt.plot(x, y1, 'b',marker='o',label='CASOS POTENCIAIS')
-    #plt.plot(x, y2, 'k',marker='o',label='CASOS CONFIRMADOS')
-    #plt.plot(x, y3, 'r',marker='*',label='MORTES CONFIRMADAS')
-    #plt.legend(loc='upper left')
-    #plt.yticks([0,50,100,150,200,250,300,350,400,450,500])
-    #plt.xticks(rotation=45)
-    #plt.title('%s'%b)
+    plt.plot(x, y1, 'b',marker='o',label='CASOS POTENCIAIS')
+    plt.plot(x, y2, 'k',marker='o',label='CASOS CONFIRMADOS')
+    plt.plot(x, y3, 'r',marker='*',label='MORTES CONFIRMADAS')
+    plt.legend(loc='upper left')
+    plt.yticks([0,50,100,150,200,250,300,350,400,450,500])
+    plt.xticks(rotation=45)
+    plt.title('%s'%b)
     ##plt.show()
-    #fig1.savefig('figs/CIDADES/%s.png'%b, bbox_inches='tight', dpi=300)
+    fig1.savefig('figs/CIDADES/%s.png'%a, bbox_inches='tight', dpi=300)
     y1g[b] = y1
     y2g[b] = y2
     y3g[b] = y3
