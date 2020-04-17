@@ -3,7 +3,6 @@ Cidades
 Aparecida 
 -----------
 População :36.129 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/0.png
@@ -12,7 +11,6 @@ Resultados:
 Arapei 
 -----------
 População: 2.478 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/1.png
@@ -21,7 +19,6 @@ Resultados:
 Areias 
 -----------
 População: 3.876 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/2.png
@@ -30,7 +27,6 @@ Resultados:
 Bananal 
 -----------
 População: 10.896 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/3.png
@@ -39,7 +35,6 @@ Resultados:
 Caçapava
 -----------
 População: 93.488 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/4.png
@@ -48,7 +43,6 @@ Resultados:
 Cachoeira Paulista 
 --------------------
 População: 33.067 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/5.png
@@ -57,7 +51,6 @@ Resultados:
 Campos do Jordão 
 ------------------
 População: 51.763 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/6.png
@@ -66,7 +59,6 @@ Resultados:
 Canas 
 -----------
 População: 5.071 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/7.png
@@ -75,7 +67,6 @@ Resultados:
 Caraguatatuba 
 ----------------
 População: 119.625 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/8.png
@@ -84,7 +75,6 @@ Resultados:
 Cruzeiro 
 -----------
 População: 81.895 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/9.png
@@ -93,7 +83,6 @@ Resultados:
 Cunha 
 -----------
 População: 21.639 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/10.png
@@ -102,7 +91,6 @@ Resultados:
 Guaratinguetá 
 ----------------
 População: 121.073 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/11.png
@@ -111,7 +99,6 @@ Resultados:
 Igaratá 
 -----------
 População: 9.483 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/12.png
@@ -120,7 +107,6 @@ Resultados:
 Ilhabela 
 -----------
 População: 34.333 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/13.png
@@ -129,7 +115,6 @@ Resultados:
 Jacareí 
 -----------
 População: 231.863 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/14.png
@@ -138,7 +123,6 @@ Resultados:
 Jambeiro 
 -----------
 População: 6.485 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/15.png
@@ -147,7 +131,6 @@ Resultados:
 Lagoinha 
 -----------
 População: 4.903 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/16.png
@@ -156,7 +139,6 @@ Resultados:
 Lavrinhas 
 -----------
 População: 7.207 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/17.png
@@ -165,7 +147,6 @@ Resultados:
 Lorena 
 -----------
 População: 88.276 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/18.png
@@ -174,7 +155,6 @@ Resultados:
 Monteiro Lobato 
 ------------------
 População: 4.608 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/19.png
@@ -183,7 +163,6 @@ Resultados:
 Natividade da Serra 
 ----------------------
 População: 6.681 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/20.png
@@ -192,7 +171,6 @@ Resultados:
 Paraibuna 
 -----------
 População: 18.000 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/21.png
@@ -201,7 +179,6 @@ Resultados:
 Pindamonhangaba 
 -------------------
 População: 166.475 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/22.png
@@ -210,7 +187,6 @@ Resultados:
 Piquete 
 -----------
 População: 13.742 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/23.png
@@ -219,7 +195,6 @@ Resultados:
 Potim 
 -----------
 População: 24.143 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/24.png
@@ -228,7 +203,6 @@ Resultados:
 Queluz 
 -----------
 População: 13.228 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/25.png
@@ -237,7 +211,6 @@ Resultados:
 Redenção da Serra 
 -------------------
 População: 3.863 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/26.png
@@ -246,7 +219,6 @@ Resultados:
 Roseira 
 -----------
 População: 10.621 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/27.png
@@ -255,7 +227,6 @@ Resultados:
 Santa Branca 
 -----------------
 População: 14.717 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/28.png
@@ -264,7 +235,6 @@ Resultados:
 Santo Antônio do Pinhal 
 ---------------------------
 População: 6.794 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/29.png
@@ -273,7 +243,6 @@ Resultados:
 São Bento do Sapucaí 
 ------------------------
 População: 10.862 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/30.png
@@ -282,7 +251,6 @@ Resultados:
 São José do Barreiro 
 ------------------------
 População: 4.151 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/31.png
@@ -291,7 +259,6 @@ Resultados:
 São José dos Campos 
 ---------------------
 População: 721.944 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/32.png
@@ -300,7 +267,6 @@ Resultados:
 São Luiz do Paraitinga 
 --------------------------
 População: 10.684 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/33.png
@@ -309,7 +275,6 @@ Resultados:
 São Sebastião 
 ------------------
 População: 87.596 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/34.png
@@ -318,7 +283,6 @@ Resultados:
 Silveiras 
 -----------
 População: 6.264 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/35.png
@@ -327,7 +291,6 @@ Resultados:
 Taubaté 
 -----------
 População: 311.854 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/36.png
@@ -336,7 +299,6 @@ Resultados:
 Tremembé 
 -----------
 População: 46.642 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/37.png
@@ -345,7 +307,6 @@ Resultados:
 Ubatuba 
 -----------
 População: 89.747 hab
-Resultados:
 
 
 .. image:: ../figs/CIDADES/38.png

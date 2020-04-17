@@ -106,7 +106,7 @@ ax.set_ylim([0, 500])
 plt.ylim(0,10)
 plt.yticks([0,50,100,150,200,250,300,350,400,450,500])
 plt.title('CASOS CONFIRMADOS')
-plt.show()
+#plt.show()
 fig3.savefig('figs/GERAL/CASOS_CONFIRMADOS.png', bbox_inches='tight', dpi=300)
 
 
