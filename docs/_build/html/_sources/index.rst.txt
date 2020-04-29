@@ -10,9 +10,9 @@ Welcome to COVID19-ValeMap's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   valemap
    intro
    cidades
+
 Indices and tables
 ==================
 

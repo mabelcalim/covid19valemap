@@ -6,6 +6,8 @@ Introdução
 Mapa
 ---------------
 
+<iframe allowtransparency="true" scrolling="no" id="postcron_overlay" name="postcron_overlay" src="chrome-extension://kahoebmmfnjmjcbclecdkhiapmefpaed/templates/iframe.html" style="border: none; height: 100%; width: 100%; position: fixed; z-index: 2147483647; top: 0px; left: 0px; display: none;"></iframe>
+
 https://santos-f.github.io/covid19valemap/
 
 
