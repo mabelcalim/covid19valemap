@@ -1,0 +1,6 @@
+{::options parse_block_html="true" /}
+Something in **markdown**.
+
+<p>Then an HTML tag with crazy **markup** _all over_ the place!</p>
+
+{::options parse_block_html="false" /}
